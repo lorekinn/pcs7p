@@ -1,16 +1,7 @@
-# my_app
+# Практическая работа №7. Михайлов Денис ЭФБО-06-22
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/d137b972-b678-476f-b6cb-58fc0f257278)
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/39540c55-a2ed-48ac-aa07-f24f3b56fa5f)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/c9b31212-b732-4017-a97b-00aee4f07742)
